@@ -4,3 +4,4 @@ Ejecutable: 1. Descargar la carpeta completa
 Programacion: Natalia Fuquene
 Diseño app: Julian tellez - Luisa Perez
 Interfaz: Juliana Delgado - Erika Triana
+Otros colaboradores: Cristian Bustos - Mateo Montaño 
